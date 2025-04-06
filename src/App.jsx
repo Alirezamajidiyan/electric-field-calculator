@@ -233,7 +233,9 @@ const ElectricFieldCalculator = () => {
                 </span>
               </div>
             </div>
-            <div className="badge bg-primary"></div>
+            <div className="badge bg-primary">
+              <span>powered by Alireza Majidian</span>
+            </div>
           </div>
         </div>
       </nav>
